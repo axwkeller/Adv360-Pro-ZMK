@@ -78,11 +78,11 @@
 
         layer_4 {
             bindings = <
-&trans  &trans                &trans     &trans                &trans                 &trans     &trans                                              &trans  &trans    &trans    &trans        &trans     &trans  &trans
-&trans  &trans                &trans     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans     &kp LG(LS(N5))                                      &trans  &trans    &trans    &trans        &trans     &trans  &trans
-&trans  &kp NON_US_BACKSLASH  &kp SLASH  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp EQUAL  &trans          &trans  &trans      &trans  &trans  &trans  &kp LEFT  &kp DOWN  &kp UP_ARROW  &kp RIGHT  &trans  &trans
-&trans  &trans                &trans     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans                             &trans      &trans                  &trans    &trans    &trans        &trans     &trans  &trans
-&trans  &trans                &trans     &kp LESS_THAN         &kp GREATER_THAN                  &trans          &trans  &trans      &trans  &trans  &trans            &trans    &trans        &trans     &trans  &trans
+&trans  &trans         &trans     &trans                &trans                 &trans     &trans                                              &trans  &trans    &trans    &trans        &trans     &trans  &trans
+&trans  &trans         &trans     &kp LEFT_BRACE        &kp RIGHT_PARENTHESIS  &trans     &kp LG(LS(N5))                                      &trans  &trans    &trans    &trans        &trans     &trans  &trans
+&trans  &kp BACKSLASH  &kp SLASH  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EQUAL  &trans          &trans  &trans      &trans  &trans  &trans  &kp LEFT  &kp DOWN  &kp UP_ARROW  &kp RIGHT  &trans  &trans
+&trans  &trans         &trans     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans                             &trans      &trans                  &trans    &trans    &trans        &trans     &trans  &trans
+&trans  &trans         &trans     &kp LESS_THAN         &kp GREATER_THAN                  &trans          &trans  &trans      &trans  &trans  &trans            &trans    &trans        &trans     &trans  &trans
             >;
         };
 
